@@ -4,7 +4,7 @@
 자신의 위치를 찾아 삽입함으로써 정렬을 완성하는 알고리즘이다.
 # 예제
 ![insertion-sort](https://user-images.githubusercontent.com/126844596/223416052-ea338eac-1370-48b5-ac40-25f8a181adce.png)
-자바
+# 자바
 
 package test;
 
